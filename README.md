@@ -1,0 +1,2 @@
+# tarotcommand
+command line tarot
